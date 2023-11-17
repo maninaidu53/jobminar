@@ -1,0 +1,3 @@
+[submodule "client"]
+    path = client
+    url = https://github.com/maninaidu53/jobminar/client.git
